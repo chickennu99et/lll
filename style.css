@@ -14,6 +14,7 @@
     cursor: pointer;
     transition: .2s ease-in-out 0s;
     float: left;
+    border-radius: 4px;
 }
 .button1 {
     background-color: #36393f;
